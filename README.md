@@ -1,0 +1,2 @@
+# ExJava
+JAVA training exercises
